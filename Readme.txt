@@ -1,0 +1,1 @@
+le projet c'est une page html basic qu'on va faire enrichir en fur et à museur

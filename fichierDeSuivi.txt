@@ -1,2 +1,3 @@
 fichier de suivie des améliorations apportées:
 - Rajout de nationnalité de joueur dans la page html
+- Rajout de nombre de ballons d'or de joueur dans la page html

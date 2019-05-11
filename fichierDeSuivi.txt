@@ -3,4 +3,4 @@ fichier de suivie des améliorations apportées:
 - Rajout de nombre de ballons d'or de joueur dans la page html
 -changement de couleur de text de blue au vert
 -modification de la page html, en séparant le developpement html de css, en mettant un fichier css à part de celui de html
-
+- ajout de l'arrièr plan dans la page html 

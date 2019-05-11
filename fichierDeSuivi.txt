@@ -1,1 +1,2 @@
 fichier de suivie des améliorations apportées:
+- Rajout de nationnalité de joueur dans la page html
